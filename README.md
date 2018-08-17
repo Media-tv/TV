@@ -11,7 +11,15 @@ This project will be divided into several parts.
 
 ### Screenshots
 
-![Home](https://github.com/fnk0/MoviesTMDB/blob/master/screenshots/home.png?raw=true "Home")
+<img src="./screenshots/home.png" width="100%">   
+<img src="./screenshots/home_collapsed.png" width="100%">   
+<img src="./screenshots/details.png" width="100%">    
+<img src="./screenshots/details_cast.png" width="100%">   
+<img src="./screenshots/details_similar.png" width="100%">   
+<img src="./screenshots/cast_page.png" width="100%">  
+<img src="./screenshots/search.png" width="100%"> 
+
+![http](https://github.com/android10/Sample-Data/blob/master/Android-CleanArchitecture/clean_architecture.png)
 ![Home Collapsed](https://github.com/fnk0/MoviesTMDB/blob/master/screenshots/home_collapsed.png?raw=true "Home")
 ![Details](https://github.com/fnk0/MoviesTMDB/blob/master/screenshots/details.png?raw=true "Home")
 ![Details Cast](https://github.com/fnk0/MoviesTMDB/blob/master/screenshots/details_cast.png?raw=true "Home")
